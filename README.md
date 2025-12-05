@@ -1,5 +1,8 @@
 # ELLA-Box — The box you can hack!
 
+![ELLA‑Box screenshot from Hackster](https://www.hackster.io/mikroller/ella-box-the-box-you-can-hack-57190e/attachment_download/attachments/000/045/776/original/ella_box_banner.jpg)
+
+
 ELLA-Box is a small, pocket-sized, hackable IoT gadget in a 3D-printed case — designed to control and monitor almost anything. Use it for smart home control, sensors, notifications, remote control, wearables, or experimental gadgets.  
 
 It features a futuristic, cyberpunk-style interface (glowing OLED, tactile feedback, pulsing menus) driven by an ESP32-C3 microcontroller — yet remains low-cost, compact, and extensible.
@@ -73,9 +76,10 @@ Optional: 3D-printed enclosure / case.
 ---
 
 ## 📁 Repository Structure
-/ ← root
-├── firmware/ ← ELLA-Box OS code (Arduino C++ + U8g2/UI + menu system)
-├── 3d_case/ ← 3D-printable enclosure files (if available)
-├── docs/ ← Documentation, wiring diagrams, screenshots
-└── README.md ← This file
+/                      ← root
+├── firmware/          ← ELLA-Box OS code (Arduino C++ + U8g2/UI + menu system)
+├── 3d_case/           ← 3D-printable enclosure files (if available)
+├── docs/              ← Documentation, wiring diagrams, screenshots
+└── README.md          ← This file
+
 
