@@ -1,6 +1,6 @@
 # ELLA-Box — The box you can hack!
+![Screencastfrom2025-08-2110-57-51-ezgif com-added-text](https://github.com/user-attachments/assets/c1ef5312-3129-4777-a409-329eb6b0a6af)
 
-![ELLA‑Box screenshot from Hackster](https://www.hackster.io/mikroller/ella-box-the-box-you-can-hack-57190e/attachment_download/attachments/000/045/776/original/ella_box_banner.jpg)
 
 
 ELLA-Box is a small, pocket-sized, hackable IoT gadget in a 3D-printed case — designed to control and monitor almost anything. Use it for smart home control, sensors, notifications, remote control, wearables, or experimental gadgets.  
